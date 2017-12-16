@@ -1,0 +1,18 @@
+.app-container {
+  padding-top: 20px;
+}
+.search-bar {
+  width: 50%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.video-list-item {
+  cursor: pointer;
+}
+.video-list-item:hover {
+  background-color: #eee;
+}
+.video-description {
+  font-size: 20px;
+  font-weight: 400;
+}
